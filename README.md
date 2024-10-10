@@ -2,5 +2,6 @@
 
 ## About
 
-Simple laravel breeze single-authentication base
-
+Simple laravel breeze single-authentication base with:
+    - Email/Username login
+    - Google + Github login / register
